@@ -14,7 +14,8 @@ Vous allez travailler sur le fichier « Iris.csv ».
 **Exercice 2 :**
 
 Écrivez une fonction qui affiche la table de multiplication d'un nombre saisi par l'utilisateur. La fonction doit générer une erreur si le nombre n'est pas compris entre 0 et 10. La fonction doit également gérer le cas où l'utilisateur aurait saisi une chaîne de caractères et lui demander de recommencer. 
-Exercice 3 :
+
+**Exercice 3 :**
 
     1. Écrivez une classe d'articles, pour laquelle vous pouvez spécifier un nom, un type d'article, un prix et une quantité.
     2. Écrivez une classe magasin avec un nom et une liste d'articles à vendre. Cette classe doit pouvoir ajouter un article à sa liste de vente, vendre et réapprovisionner un article déjà présent dans sa liste. L'impression de cette classe affiche les types d'articles en vente dans le magasin et la quantité restante. Notez que si un article est épuisé, il ne peut plus être vendu.   
